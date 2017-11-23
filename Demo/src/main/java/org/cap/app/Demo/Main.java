@@ -10,4 +10,8 @@ public class Main {
 		System.out.println("Hello");
 		//System.out.println("terse");
 	}
+	public static void Demo1(){
+		System.out.println("Hello");
+		//System.out.println("terse");
+	}
 }
