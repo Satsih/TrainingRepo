@@ -10,6 +10,10 @@ public class Main {
 		System.out.println("Hello");
 		//System.out.println("terse");
 	}
+	public static void f1(){
+		System.out.println("Hello");
+		//System.out.println("terse");
+	}
 	public static void f2(){
 		System.out.println("Hello");
 		//System.out.println("terse");
