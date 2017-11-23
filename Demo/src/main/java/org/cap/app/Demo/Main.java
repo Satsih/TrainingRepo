@@ -8,5 +8,6 @@ public class Main {
 	}
 	public static void Demo(){
 		System.out.println("Hello");
+		System.out.println("terse");
 	}
 }
