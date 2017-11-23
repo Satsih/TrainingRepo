@@ -17,5 +17,6 @@ public class Main {
 	public static void f2(){
 		System.out.println("Hello");
 		//System.out.println("terse");
+		System.out.println("dev111111111111");
 	}
 }
